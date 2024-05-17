@@ -1,0 +1,2 @@
+Web security and ethical hacking are lucrative careers to get into, but they're often seen as dark and mysterious arts. The Web Security Academy smashes that stereotype. We make the latest application security knowledge available to everyone.
+Some of our interactive labs will, by their nature, require you to use tools to solve them. But fear not. If you don't have access to Burp Suite Professional, then Burp Suite Community Edition allows you to experiment for free. Download Burp Suite here.
