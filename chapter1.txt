@@ -1,0 +1,2 @@
+The Web Security Academy is a free online training center for web application security. It includes content from PortSwigger's in-house research team, experienced academics, and our Chief Swig Dafydd Stuttard - author of The Web Application Hacker's Handbook.
+Unlike a textbook, the Academy is constantly updated. It also includes interactive labs where you can put what you learn to the test. If you want to improve your knowledge of hacking, or you'd like to become a bug bounty hunter or pentester, you're in the right place.
